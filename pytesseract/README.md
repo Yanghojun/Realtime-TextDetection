@@ -1,0 +1,1 @@
+# Realtime TextRecognition with pytesseract & opencv
